@@ -1,0 +1,20 @@
+a=int(input("enter a number"));
+b=int(input("enter a number"));
+c=a+b;
+d=a-c;
+e=a*b;
+f=a/b;
+g=a%b;
+print("sum value c:",c)
+print("sub value d:",d)
+print("mult value e:",e)
+print("divi value f:",f)
+print("rem value g:",g)
+enter a number13
+enter a number 3
+sum value c: 16
+sub value d: -3
+mult value e: 39
+divi value f: 4.333333333333333
+rem value g: 1
+> 
